@@ -96,7 +96,7 @@ Testing is done using:
 
 Manual UI tests
 
-Unit tests (if added later)
+Unit tests 
 
 Dataset validation
 
@@ -109,5 +109,6 @@ Developer Farida Hassan
 Developer Menna Khaled
 
 📌 License
+
 
 Free to use for academic purposes.
